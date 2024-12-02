@@ -1,0 +1,34 @@
+
+.body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: linear-gradient(red, yellow, green); */
+}
+.container
+{
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px ;
+    box-shadow: 10px 10px transparent;
+}
+
+.rcontainer
+{
+    height: 300px;
+    width: 350px;
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px ;
+    box-shadow: 10px 10px transparent;
+}
+
+
